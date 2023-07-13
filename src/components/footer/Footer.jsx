@@ -18,9 +18,8 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.instagram.com/nazirsharifi.af/" target='_blank'><BsInstagram/></a>
-        <a href="https://www.linkedin.com/in/nazir-sharifi-783ba0197/" target='_blank'><BsLinkedin/></a>
-        <a href="https://github.com/nazir20" target='_blank'><BsGithub/></a>
+        <a href="https://www.linkedin.com/in/sumitkosta-reactjs/" target='_blank'><BsLinkedin/></a>
+        <a href="https://github.com/The-Indian-Programmer" target='_blank'><BsGithub/></a>
       </div>
 
       <div className="footer__copyright">
