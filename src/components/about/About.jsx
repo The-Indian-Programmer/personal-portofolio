@@ -1,9 +1,9 @@
 import React from 'react';
 import './about.css';
 import ME from '../../assets/sumitkosta.png';
-import {FaAward} from 'react-icons/fa';
-import {FiUsers} from 'react-icons/fi';
-import {VscFolderLibrary} from 'react-icons/vsc';
+import { FaAward } from 'react-icons/fa';
+import { FiUsers } from 'react-icons/fi';
+import { VscFolderLibrary } from 'react-icons/vsc';
 
 const About = () => {
   return (
@@ -18,7 +18,11 @@ const About = () => {
         </div>
         <div className="about__content">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium sequi nulla vero numquam, perspiciatis cupiditate ad mollitia, pariatur est voluptas magnam reiciendis ullam nam sed enim temporibus error iure ea!
+            Enthusiastic Full Stack Blockchain Developer proficient in a wide array of technologies, with expertise in blockchain development and full
+            stack solutions. Skilled in creating and deploying Smart Contracts using Solidity and Ethereum, building decentralized applications (DApps)
+            with Web3.js, and ensuring seamless user experiences. Experienced in Advanced JavaScript, Node.js, React.js, and Express.js for delivering
+            robust and responsive web applications. Proficient in MySQL for efficient data management. Actively contribute to collaborative development
+            through Git. Keen to leverage my comprehensive skill set in blockchain and full stack development to drive innovative projects.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

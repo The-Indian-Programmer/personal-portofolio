@@ -1,6 +1,6 @@
 import React from 'react';
 // import CV from '../../assets/Sumit-Kosta-Blockchain-Developer.pdf '
-import CV from "../../assets/Sumit-Kosta-Blockchain-Developer.pdf"
+import CV from "../../assets/Blockchain-Developer-2Years-(Sumit-Kosta).pdf"
 
 const CTA = () => {
   return (
