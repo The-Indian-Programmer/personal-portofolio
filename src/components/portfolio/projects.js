@@ -21,6 +21,6 @@ export const projects_list = [
     title: "Lottery DApp With Chainlink VRF",
     language: "Solidity, React.js, Ethereum, Ethers.js, Hardhat, Ganache",
     github: "https://github.com/The-Indian-Programmer/Blockchain-Freecodecamp/tree/master/hardhat-lottery",
-    demo: "https://github.com/The-Indian-Programmer/Blockchain-Freecodecamp/tree/master/hardhat-lottery",
+    demo: "https://web3-lottery.netlify.app/",
   },
 ];
